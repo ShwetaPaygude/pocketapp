@@ -1,9 +1,9 @@
 import React from 'react'
-
+import Content from './Desktop/Body/Content'
 function App() {
   return (
     <div>
-      hello
+      <Content/>
     </div>
   )
 }
