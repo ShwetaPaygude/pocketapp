@@ -3,8 +3,7 @@ import React from 'react'
 function Content() {
   return (
     <div>
-      New page
-      second cha gs
+      add new this and see the changes
     </div>
   )
 }
