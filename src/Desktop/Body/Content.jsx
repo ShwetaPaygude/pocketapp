@@ -4,6 +4,7 @@ function Content() {
   return (
     <div>
       New page
+      second cha gs
     </div>
   )
 }
