@@ -1,11 +1,6 @@
-import React from 'react'
-import Content from './Desktop/Body/Content'
-function App() {
-  return (
-    <div>
-      <Content/>
-    </div>
-  )
-}
+import { useState, useEffect, useCallback } from "react";
+import "./App.css";
 
-export default App
+
+
+export default App;
